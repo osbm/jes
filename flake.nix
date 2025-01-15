@@ -1,3 +1,4 @@
+{
   description = "Development environment with Python and other tools";
 
   inputs = {
@@ -64,3 +65,4 @@
         };
       }
     );
+}
